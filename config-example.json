@@ -1,5 +1,5 @@
 {
-    "mongo_url": "",
+    "mongo_url": "MONGO DATABASE URL",
     "server": {
         "id": "",
         "invite": "",
